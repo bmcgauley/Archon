@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "archon": {
+      "command": "C:\\Users\\brian\\archon\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\brian\\archon\\mcp\\mcp_server.py"
+      ]
+    }
+  }
+}
